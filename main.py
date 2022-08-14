@@ -1,3 +1,4 @@
+#adding first comment
 import xml.etree.ElementTree as ET
 # mytree = ET.parse('Samplexml100.xml')
 # myroot = mytree.getroot()
